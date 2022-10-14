@@ -1,4 +1,1 @@
-$(function name(params) {
-
-})
 
